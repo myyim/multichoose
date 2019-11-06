@@ -1,2 +1,2 @@
 # multichoose
-list all combinations of n multi choose k
+Python code for listing all combinations of n multichoose k
